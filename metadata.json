@@ -1,0 +1,6 @@
+{
+  "name": "Sheet Search",
+  "description": "An interactive spreadsheet viewer and search engine to easily browse, search, and analyze your Excel and CSV sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
